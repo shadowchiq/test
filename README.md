@@ -6,7 +6,7 @@
 
 
 
-- [@shadowchiq](https://www.github.com/shadowchiq)
+- [@shadowchi](https://www.github.com/shadowchiq)
 
 
 ![Logo](https://robocode.digitee.space/assets/header-logo-CZdXph7N.svg)
